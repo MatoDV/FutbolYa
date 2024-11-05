@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FutbolYa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f04c16c7f2d845689a8f90b2aaa97b809cb6e18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df04bfcf35f905165db147300c7e521dfd46d721")]
 [assembly: System.Reflection.AssemblyProductAttribute("FutbolYa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FutbolYa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
